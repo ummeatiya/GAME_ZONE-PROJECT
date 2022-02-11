@@ -1,0 +1,31 @@
+.header{
+    background:url('./bg.jpg') no-repeat;
+    background-size: cover;
+    background-color: rgb(40, 166, 204);
+    text-align: center;
+    widows: 160px;
+   height: 160px;
+    background-image: bg1.jpg; 
+}
+.products{
+    background-color: rgb(205, 230, 236);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px; 
+    border-radius: 10px;
+}
+.contact_information{
+    background-color: rgb(226, 99, 169);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    
+    
+}
+.item image{
+    border-radius: 10px;
+    margin: 30px;
+    
+}
